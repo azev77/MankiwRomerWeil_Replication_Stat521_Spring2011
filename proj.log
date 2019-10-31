@@ -1,0 +1,1463 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2008.12.28)  6 MAY 2011 15:18
+entering extended mode
+\write18 enabled.
+ %&-line parsing enabled.
+**proj.tex
+(./proj.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, r
+omanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turki
+sh, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/Users/azev77/Library/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(/Users/azev77/Library/texmf/tex/latex/base/size12.clo
+File: size12.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2008/09/08 v0.04l Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsmath/amsxtra.sty
+Package: amsxtra 1999/11/15 v1.2c
+LaTeX Info: Redefining \nobreakspace on input line 77.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2008/05/06 v1.7 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2007/10/18 v3.0 Keyval support for LaTeX options (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2007/12/12 v0.3 LuaTeX support for pdfTeX utility functions
+ (HO)
+Package pdftexcmds Info: LuaTeX not detected on input line 139.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 323.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(/Users/azev77/Library/texmf/tex/egame.sty
+\initnodediam=\count100
+\egplayerlabelsep=\dimen114
+\egactionlabelsep=\dimen115
+\egpayoffsep=\dimen116
+\@egunitlength=\dimen117
+\@initnodediam=\count101
+\@egxnum=\count102
+\@egynum=\count103
+\@egmodxnum=\count104
+\@egmodynum=\count105
+\@eghnum=\count106
+\@egvnum=\count107
+\@egabshnum=\count108
+\@egabsvnum=\count109
+\@eghdistance=\count110
+\@eghoffset=\count111
+\@egvoffset=\count112
+\@adjdist=\count113
+\@hshift=\count114
+\@vshift=\count115
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/sgame/sgame.sty
+\sglabelsep=\skip46
+\sgcolsep=\dimen118
+\sg@colwd=\dimen119
+\sg@xcolwd=\dimen120
+\sg@colnum=\count116
+\sg@colindex=\count117
+\sg@numcols=\count118
+\sg@xnumcols=\count119
+\sg@rowindex=\count120
+\sg@numrows=\count121
+\sg@strutbox=\box28
+\sg@tempsep=\dimen121
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2008/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count122
+\float@exts=\toks21
+\float@box=\box29
+\@float@everytoks=\toks22
+\@floatcapt=\box30
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2008/08/24 v3.1j Customizing captions (AR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2008/08/24 v3.1j caption3 kernel (AR)
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@indent=\dimen125
+\caption@parindent=\dimen126
+\caption@hangindent=\dimen127
+)
+\c@ContinuedFloat=\count123
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2008/11/26 v0.40 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.27  <2009/01/25> (tvz)
+\pst@dima=\dimen128
+\pst@dimb=\dimen129
+\pst@dimc=\dimen130
+\pst@dimd=\dimen131
+\pst@dimg=\dimen132
+\pst@dimh=\dimen133
+\pst@hbox=\box31
+\pst@boxg=\box32
+\pst@cnta=\count124
+\pst@cntb=\count125
+\pst@cntc=\count126
+\pst@cntd=\count127
+\pst@cntg=\count128
+\pst@cnth=\count129
+\pst@toks=\toks23
+(/usr/local/texlive/2008/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen134
+\psxunit=\dimen135
+\psyunit=\dimen136
+\pslinewidth=\dimen137
+\pst@customdefs=\toks24
+\pslinearc=\dimen138
+\everypsbox=\toks25
+\psframesep=\dimen139
+\pslabelsep=\dimen140
+\pst@shift=\dimen141
+\theoverlaybox=\box33
+)
+File: pstricks.tex 2009/01/25 v1.27 `PSTricks' (tvz,hv)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2008/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pstricks/pst-node.sty
+Package: pst-node 2006/01/01 package wrapper for pst-node.tex
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/pstricks/pst-node.tex
+ v1.01, 2008/11/26
+\psrow=\count130
+\pscol=\count131
+\psmatrixcnt=\count132
+\psrowsep=\skip47
+\pscolsep=\skip48
+)
+File: pst-node.tex 2008/11/26 1.01 `pst-node' (tvz)
+) (./proj.aux)
+\openout1 = `proj.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+(/usr/local/texlive/2008/texmf-dist/tex/context/base/supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count133
+\scratchdimen=\dimen142
+\scratchbox=\box34
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen143
+\MPnumerator=\count137
+\everyMPtoPDFconversion=\toks27
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 37--48
+
+ []
+
+[1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--168
+
+ []
+
+[4]
+Overfull \hbox (153.40027pt too wide) in paragraph at lines 212--212
+[]\OT1/cmtt/m/n/12 reg1 <- lm(log(gdpadult1985) ~ log(iy/100) + log(workingagep
+op/100 + 0.05) , data=contn)[] 
+ []
+
+[5]
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 212--212
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) ~ log(iy/100) + log(workingag
+epop/100 +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 212--212
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 212--212
+[]\OT1/cmtt/m/n/12 (Intercept)                     5.4299     1.5839   3.428 0.
+000900 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 212--212
+[]\OT1/cmtt/m/n/12 log(iy/100)                     1.4240     0.1431   9.951  <
+ 2e-16 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 212--212
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05)  -1.9898     0.5634  -3.532 0.
+000639 ***[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (153.40027pt too wide) in paragraph at lines 238--238
+[]\OT1/cmtt/m/n/12 reg2 <- lm(log(gdpadult1985) ~ log(iy/100) + log(workingagep
+op/100 + 0.05) , data=conti)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 238--238
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) ~ log(iy/100) + log(workingag
+epop/100 +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 238--238
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 238--238
+[]\OT1/cmtt/m/n/12 (Intercept)                     5.3459     1.5431   3.464 0.
+000899 ***[] 
+ []
+
+[6]
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 238--238
+[]\OT1/cmtt/m/n/12 log(iy/100)                     1.3176     0.1709   7.708 5.
+38e-11 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 238--238
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05)  -2.0172     0.5339  -3.778 0.
+000322 ***[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (153.40027pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/12 reg3 <- lm(log(gdpadult1985) ~ log(iy/100) + log(workingagep
+op/100 + 0.05) , data=conto)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) ~ log(iy/100) + log(workingag
+epop/100 +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 264--264
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (36.07521pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/12 (Intercept)                     8.0206     2.5179   3.185  0
+.00487 **[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/12 log(iy/100)                     0.4999     0.4339   1.152  0
+.26357[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05)  -0.7419     0.8522  -0.871  0
+.39484[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+[7]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+ [8]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+ [9]
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 370--370
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) ~ log(iy/100) + log(workingagepop
+/100 + 0.05)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 384--384
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) ~ log(iy/100) + log(workingagepop
+/100 + 0.05)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 398--398
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) ~ log(iy/100) + log(workingagepop
+/100 + 0.05)[] 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 399--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--420
+
+ []
+
+[11] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 493--516
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--516
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--516
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--516
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 520--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--531
+
+ []
+
+
+Overfull \hbox (270.72533pt too wide) in paragraph at lines 562--562
+[]\OT1/cmtt/m/n/12 reg1c <- lm(log(gdpadult1985) ~ log(iy/100) + log(workingage
+pop/100 + 0.05) + log(school/100) , data=contn)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 562--562
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) ~ log(iy/100) + log(workingag
+epop/100 +[] 
+ []
+
+[15]
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 562--562
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 562--562
+[]\OT1/cmtt/m/n/12 (Intercept)                    6.84441    1.17745   5.813 8.
+37e-08 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 562--562
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.69671    0.13283   5.245 9.
+61e-07 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 562--562
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -1.74525    0.41594  -4.196 6.
+16e-05 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 562--562
+[]\OT1/cmtt/m/n/12 log(school/100)                0.65446    0.07271   9.001 2.
+44e-14 ***[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (264.55032pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/12 reg2c <- lm(log(gdpadult1985) ~ log(iy/100) + log(workingage
+pop/100 + 0.05) + log(school/100), data=conti)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) ~ log(iy/100) + log(workingag
+epop/100 +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 589--589
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/12 (Intercept)                    7.79131    1.19242   6.534 8.
+30e-09 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.70037    0.15058   4.651 1.
+49e-05 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -1.49978    0.40322  -3.720 0.
+000396 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/12 log(school/100)                0.73055    0.09523   7.671 6.
+79e-11 ***[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+[16]
+Overfull \hbox (270.72533pt too wide) in paragraph at lines 616--616
+[]\OT1/cmtt/m/n/12 reg3c <- lm(log(gdpadult1985) ~ log(iy/100) + log(workingage
+pop/100 + 0.05) + log(school/100) , data=conto)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 616--616
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) ~ log(iy/100) + log(workingag
+epop/100 +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 616--616
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (36.07521pt too wide) in paragraph at lines 616--616
+[]\OT1/cmtt/m/n/12 (Intercept)                     8.6369     2.2143   3.901  0
+.00105 **[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 616--616
+[]\OT1/cmtt/m/n/12 log(iy/100)                     0.2761     0.3889   0.710  0
+.48681[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 616--616
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05)  -1.0755     0.7560  -1.423  0
+.17195[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 616--616
+[]\OT1/cmtt/m/n/12 log(school/100)                 0.7676     0.2933   2.617  0
+.01746 *[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (43.61777pt too wide) in paragraph at lines 621--621
+[] 
+ []
+
+
+Overfull \hbox (58.3491pt too wide) in paragraph at lines 621--626
+\OT1/cmr/m/n/12 In our code we let $\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12 ^^Q []$
+ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 y \OMS/cmsy/m/n/12 ^^Q []$\OT1/cmr/m/n/1
+2 . 
+ []
+
+[17]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+ [18]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+ [19]
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 719--719
+[]\OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100  + 0.05) + log(school/10
+0) = 0[] 
+ []
+
+
+Overfull \hbox (66.95023pt too wide) in paragraph at lines 719--719
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) ~ log(iy/100) + log(workingagepop
+/100 + 0.05) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 734--734
+[]\OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100  + 0.05) + log(school/10
+0) = 0[] 
+ []
+
+
+Overfull \hbox (66.95023pt too wide) in paragraph at lines 734--734
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) ~ log(iy/100) + log(workingagepop
+/100 + 0.05) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 749--749
+[]\OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100  + 0.05) + log(school/10
+0) = 0[] 
+ []
+
+
+Overfull \hbox (66.95023pt too wide) in paragraph at lines 749--749
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) ~ log(iy/100) + log(workingagepop
+/100 + 0.05) +[] 
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 761--774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--793
+
+ []
+
+[21]
+Overfull \hbox (17.80681pt too wide) in paragraph at lines 815--815
+[] 
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 815--826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--826
+
+ []
+
+
+Overfull \hbox (110.17525pt too wide) in paragraph at lines 853--853
+[]\OT1/cmtt/m/n/12 reg4 <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpadu
+lt1960) , data=contn)[] 
+ []
+
+
+Overfull \hbox (48.42522pt too wide) in paragraph at lines 853--853
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960),[] 
+ []
+
+[23]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (110.17525pt too wide) in paragraph at lines 876--876
+[]\OT1/cmtt/m/n/12 reg5 <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpadu
+lt1960) , data=conti)[] 
+ []
+
+
+Overfull \hbox (48.42522pt too wide) in paragraph at lines 876--876
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960),[] 
+ []
+
+
+Overfull \hbox (110.17525pt too wide) in paragraph at lines 901--901
+[]\OT1/cmtt/m/n/12 reg6 <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpadu
+lt1960) , data=conto)[] 
+ []
+
+
+Overfull \hbox (48.42522pt too wide) in paragraph at lines 901--901
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960),[] 
+ []
+
+[24]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--909
+
+ []
+
+
+Overfull \hbox (19.67375pt too wide) in paragraph at lines 911--911
+[] 
+ []
+
+
+Overfull \hbox (394.22539pt too wide) in paragraph at lines 938--938
+[]\OT1/cmtt/m/n/12 reg4b <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960) +log(iy/100) + log(workingagepop/100 + 0.05) , data=contn)[] 
+ []
+
+[25]
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 938--938
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 938--938
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 938--938
+[]\OT1/cmtt/m/n/12 (Intercept)                    1.91938    0.83367   2.302  0
+.02352 *[] 
+ []
+
+
+Overfull \hbox (36.07521pt too wide) in paragraph at lines 938--938
+[]\OT1/cmtt/m/n/12 log(gdpadult1960)             -0.14090    0.05202  -2.709  0
+.00803 **[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 938--938
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.64724    0.08670   7.465 4.
+16e-11 ***[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 938--938
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -0.30235    0.30438  -0.993  0
+.32311[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (394.22539pt too wide) in paragraph at lines 965--965
+[]\OT1/cmtt/m/n/12 reg5b <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960)+ log(iy/100) + log(workingagepop/100 + 0.05) , data=conti)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 965--965
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 965--965
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 965--965
+[]\OT1/cmtt/m/n/12 (Intercept)                    2.24968    0.85472   2.632 0.
+010405 *[] 
+ []
+
+[26]
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 965--965
+[]\OT1/cmtt/m/n/12 log(gdpadult1960)             -0.22783    0.05725  -3.980 0.
+000165 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 965--965
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.64587    0.10392   6.215 3.
+11e-08 ***[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 965--965
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -0.45746    0.30743  -1.488 0.
+141176[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (400.40039pt too wide) in paragraph at lines 992--992
+[]\OT1/cmtt/m/n/12 reg6b <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960) + log(iy/100) + log(workingagepop/100 + 0.05) , data=conto)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 992--992
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 992--992
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 992--992
+[]\OT1/cmtt/m/n/12 (Intercept)                    2.14036    1.18068   1.813   
+0.0866 .[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 992--992
+[]\OT1/cmtt/m/n/12 log(gdpadult1960)             -0.34991    0.06574  -5.322 4.
+65e-05 ***[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 992--992
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.39010    0.17612   2.215   
+0.0399 *[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 992--992
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -0.76624    0.34523  -2.220   
+0.0395 *[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--997
+
+ []
+
+[27]
+Overfull \hbox (499.20044pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 reg4c <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960) +log(iy/100) + log(workingagepop/100 + 0.05) + log(school/100), data=c
+ontn)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1030--1030
+[]    \OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100 + 0.05) + log(school
+/100),[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1030--1030
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 (Intercept)                    3.02152    0.82748   3.651 0.
+000431 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 log(gdpadult1960)             -0.28837    0.06158  -4.683 9.
+62e-06 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.52374    0.08687   6.029 3.
+30e-08 ***[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -0.50566    0.28861  -1.752 0.
+083061 .[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1030--1030
+[]\OT1/cmtt/m/n/12 log(school/100)                0.23112    0.05946   3.887 0.
+000190 ***[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (499.20044pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 reg5c <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960)+ log(iy/100) + log(workingagepop/100 + 0.05)+ log(school/100) , data=c
+onti)[] 
+ []
+
+[28]
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1059--1059
+[]    \OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100 + 0.05) + log(school
+/100),[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1059--1059
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 (Intercept)                    3.70900    0.90878   4.081 0.
+000117 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 log(gdpadult1960)             -0.36599    0.06743  -5.427 7.
+76e-07 ***[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.53756    0.10229   5.255 1.
+52e-06 ***[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -0.54499    0.28843  -1.890 0.
+062966 .[] 
+ []
+
+
+Overfull \hbox (36.07521pt too wide) in paragraph at lines 1059--1059
+[]\OT1/cmtt/m/n/12 log(school/100)                0.27045    0.08037   3.365 0.
+001245 **[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (505.37544pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 reg6c <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960) + log(iy/100) + log(workingagepop/100 + 0.05)+ log(school/100) , data=
+conto)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1088--1088
+[]    \OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100 + 0.05) + log(school
+/100),[] 
+ []
+
+[29]
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1088--1088
+[]                              \OT1/cmtt/m/n/12 Estimate Std. Error t value Pr
+(>|t|)[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 (Intercept)                    2.75536    1.20102   2.294   
+0.0348 *[] 
+ []
+
+
+Overfull \hbox (42.25021pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 log(gdpadult1960)             -0.39769    0.07016  -5.668 2.
+78e-05 ***[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 log(iy/100)                    0.33179    0.17338   1.914   
+0.0727 .[] 
+ []
+
+
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 log(workingagepop/100 + 0.05) -0.86341    0.33770  -2.557   
+0.0204 *[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1088--1088
+[]\OT1/cmtt/m/n/12 log(school/100)                0.22770    0.14501   1.570   
+0.1348[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1093
+
+ []
+
+
+Overfull \hbox (159.57527pt too wide) in paragraph at lines 1124--1124
+[]\OT1/cmtt/m/n/12 reg4d <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960) + x + y, data=contn)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 1124--1124
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+[30]
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (153.40027pt too wide) in paragraph at lines 1151--1151
+[]\OT1/cmtt/m/n/12 reg5d <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960)+ x +y , data=conti)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 1151--1151
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+[31]
+Overfull \hbox (159.57527pt too wide) in paragraph at lines 1178--1178
+[]\OT1/cmtt/m/n/12 reg6d <- lm( log(gdpadult1985)-log(gdpadult1960) ~ log(gdpad
+ult1960) + x +y , data=conto)[] 
+ []
+
+
+Overfull \hbox (54.60022pt too wide) in paragraph at lines 1178--1178
+[]\OT1/cmtt/m/n/12 lm(formula = log(gdpadult1985) - log(gdpadult1960) ~ log(gdp
+adult1960) +[] 
+ []
+
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+Missing character: There is no Ô in font cmtt12!
+Missing character: There is no Õ in font cmtt12!
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1197--1197
+[]\OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100  + 0.05) + log(school/10
+0) = 0[] 
+ []
+
+[32]
+Overfull \hbox (116.35025pt too wide) in paragraph at lines 1197--1197
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) - log(gdpadult1960) ~ log(gdpadul
+t1960) + log(iy/100) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1212--1212
+[]\OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100  + 0.05) + log(school/10
+0) = 0[] 
+ []
+
+
+Overfull \hbox (116.35025pt too wide) in paragraph at lines 1212--1212
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) - log(gdpadult1960) ~ log(gdpadul
+t1960) + log(iy/100) +[] 
+ []
+
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 1227--1227
+[]\OT1/cmtt/m/n/12 log(iy/100) + log(workingagepop/100  + 0.05) + log(school/10
+0) = 0[] 
+ []
+
+
+Overfull \hbox (116.35025pt too wide) in paragraph at lines 1227--1227
+[]\OT1/cmtt/m/n/12 Model 2: log(gdpadult1985) - log(gdpadult1960) ~ log(gdpadul
+t1960) + log(iy/100) +[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1237
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1248
+
+ []
+
+[34] [35] (./proj.aux) ) 
+Here is how much of TeX's memory you used:
+ 5025 strings out of 493876
+ 65756 string characters out of 1150567
+ 162472 words of memory out of 3000000
+ 8238 multiletter control sequences out of 10000+50000
+ 12314 words of font info for 48 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 36i,15n,38p,220b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
+/cm/cmbx12.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmex1
+0.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmmi12.pfb></u
+sr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmmi6.pfb></usr/local/t
+exlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmmi8.pfb></usr/local/texlive/200
+8/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-di
+st/fonts/type1/bluesky/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/t
+ype1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesk
+y/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmsy10
+.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmsy6.pfb></usr
+/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmsy8.pfb></usr/local/tex
+live/2008/texmf-dist/fonts/type1/bluesky/cm/cmti12.pfb></usr/local/texlive/2008
+/texmf-dist/fonts/type1/bluesky/cm/cmtt12.pfb>
+Output written on proj.pdf (35 pages, 153564 bytes).
+PDF statistics:
+ 170 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
